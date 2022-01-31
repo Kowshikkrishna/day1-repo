@@ -12,7 +12,7 @@ namespace Demo
         n = int.Parse(Console.ReadLine());  
         if(n>=18)
         {
-            Console.WriteLine("{0} number is Even");
+            Console.WriteLine("{0} number is Even",n);
         }
         else{
             Console.WriteLine("{0} number is Odd",n);
