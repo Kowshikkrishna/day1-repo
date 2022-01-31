@@ -1,0 +1,15 @@
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\bin\Debug\net6.0\ref\LeapYear.dll
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\Kowshik\OneDrive\Desktop\CG\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
