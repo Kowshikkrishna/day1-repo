@@ -2,7 +2,7 @@
  
 namespace Demo
 {
-    class Program
+    class EvenOrOdd
     {
         static void Main(string[] args)
         {
