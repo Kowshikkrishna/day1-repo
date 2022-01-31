@@ -2,7 +2,7 @@
  
 namespace Demo
 {
-    class LeapYEar
+    class LeapYear
     {
         static void Main(string[] args)
         {
