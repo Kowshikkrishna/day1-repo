@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class Repeated
     {
-        static void Main(string[] args)
+        static void Main6(string[] args)
         {
             Console.WriteLine("Enter number of elements");
             int n = int.Parse(Console.ReadLine());
